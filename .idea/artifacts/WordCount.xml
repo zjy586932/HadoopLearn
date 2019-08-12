@@ -2,7 +2,7 @@
   <artifact type="jar" name="WordCount">
     <output-path>$PROJECT_DIR$/out/artifacts/WordCount</output-path>
     <root id="archive" name="WordCount.jar">
-      <element id="module-output" name="WordCount" />
+      <element id="module-output" name="HadoopDemo" />
     </root>
   </artifact>
 </component>
