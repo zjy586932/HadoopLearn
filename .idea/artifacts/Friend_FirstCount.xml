@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Friend-FirstCount">
+    <output-path>$PROJECT_DIR$/out/artifacts/Friend_FirstCount</output-path>
+    <root id="archive" name="Friend-FirstCount.jar">
+      <element id="module-output" name="FriendRelation" />
+    </root>
+  </artifact>
+</component>
