@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhonwFlowCount">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhonwFlowCount</output-path>
+    <root id="archive" name="PhonwFlowCount.jar">
+      <element id="module-output" name="PhoneFLowCount" />
+    </root>
+  </artifact>
+</component>
